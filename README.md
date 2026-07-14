@@ -18,7 +18,7 @@
 ## 🧑‍💻 Who I Am
 
 ```typescript
-const raviTiwari = {
+const Ravi Prakash Tiwari = {
   title: "Front End Developer | CSE Student",
   stack: {
     languages: ["C++"],
