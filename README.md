@@ -19,14 +19,13 @@
 
 ```typescript
 const Ravi Prakash Tiwari = {
-  title: "Front End Developer | CSE Student",
+  title: "Full Stack Developer | CSE Student",
   stack: {
-    languages: ["C++"],
+    languages: ["C++, Python"],
     frontend: ["HTML", "CSS", "JavaScript"],
   },
-  launchedProjects: [],
-  certifications: [],
-  status: "Studying Computer Science Engineering",
+  launchedProjects: ["MandiSathi", "AarogyaSahay"],
+  status: "Studying Computer Science Engineering", "Exploring AI world",
   openTo: ["Collaborations", "Learning opportunities"],
 };
 ```
@@ -38,6 +37,7 @@ const Ravi Prakash Tiwari = {
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+<img src="https://skillicons.dev/icons?i=py" alt="Python"
 
 **Frontend**
 
