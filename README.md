@@ -42,6 +42,11 @@ const Ravi Prakash Tiwari = {
 
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS" />
 
+### 🛠️ Version Control & Collaboration
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" />
+</p>
+
 <br/>
 
 ## 📊 GitHub Stats
